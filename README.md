@@ -85,7 +85,7 @@ You may use a `.env` file.
 
 ## 🗺️ Roadmap
 
-You can check existing feature requests [here](https://github.com/BaxoPlenty/sweep/issues?q=is%3Aissue%20state%3Aopen%20label%3Aenhancement). You can also submit new feature requests.
+You can check existing feature requests [here](https://github.com/BaxoPlenty/sweep/issues). You can also submit new feature requests.
 
 ## 💣 Common Errors
 
