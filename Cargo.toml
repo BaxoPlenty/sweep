@@ -7,7 +7,7 @@ authors = ["BaxoPlenty"]
 repository = "https://github.com/BaxoPlenty/sweep"
 
 [dependencies]
-async-openai = { version = "0.38.0", features = ["chat-completion"] }
+async-openai = { version = "0.38.0", default-features = false, features = ["chat-completion"] }
 chrono = "0.4.44"
 dashmap = "6.1.0"
 dotenvy = "0.15.7"
