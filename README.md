@@ -40,6 +40,9 @@ Sweep connects to any OpenAI-compatible endpoint. Backends that offer OpenAI-com
 > [!IMPORTANT]
 > Tool calling support is mandatory. Smaller models (<8B) may struggle with complex tool schemas. Check our [Model Discussions](https://github.com/BaxoPlenty/sweep/discussions/categories/model-discussions) for ratings.
 
+> [!TIP]
+> If you can, enable the `perserve_thinking` flag for your model. This helps to reduce incomplete responses.
+
 ## ⚡ Quickstart
 
 1. Clone Sweep's repository:
