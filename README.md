@@ -18,7 +18,7 @@ Sweep bridges the gap between natural language and API actions, allowing you to 
 
 ## 🎥 Video Demo
 
-*TODO*
+https://github.com/user-attachments/assets/a5e5c540-16a0-480e-bde1-22fb68ca9dd0
 
 ## 🛡️ Safety
 
@@ -26,8 +26,6 @@ Sweep implements strict safety measures to prevent unauthorized actions.
 
 - **Explicit Approval**: Users must click an embed button before any server-altering tool executes
 - **Permission Checks**: Tools respect Discord role/channel permissions
-
-*TODO: ADD VIDEO DEMO*
 
 ## 🌐 LLM Compatibility
 
