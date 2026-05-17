@@ -1,7 +1,5 @@
 ![Hero Image](.github/hero.png)
 
-&nbsp;
-
 ---
 
 ## 📖 About
