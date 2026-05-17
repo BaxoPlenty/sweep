@@ -48,7 +48,7 @@ Sweep connects to any OpenAI-compatible endpoint. Tools that offer such endpoint
 
 ```bash
 git clone https://github.com/BaxoPlenty/sweep.git
-cd sweeo
+cd sweep
 ```
 
 2. Copy and configure `sweep.default.toml`:
