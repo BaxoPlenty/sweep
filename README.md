@@ -1,12 +1,8 @@
 ![Hero Image](.github/hero.png)
 
-&nbsp;
-
 <p align="center">
     <a href="https://discord.gg/ZnA2yVwjzN"><img src="https://img.shields.io/discord/1506721197591892049?style=for-the-badge&logo=discord&logoColor=%23fff&label=Discord&labelColor=%23000&color=%235665F2" /></a>
 </p>
-
-&nbsp;
 
 ---
 
