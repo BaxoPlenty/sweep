@@ -1,5 +1,11 @@
 ![Hero Image](.github/hero.png)
 
+<p align="center">
+    <img alt="GitHub License" src="https://img.shields.io/github/license/BaxoPlenty/sweep?style=for-the-badge&labelColor=%23000" />
+    &nbsp;
+    <a alt="Discord Server" href="https://discord.gg/ZnA2yVwjzN"><img src="https://img.shields.io/discord/1506721197591892049?style=for-the-badge&logo=discord&logoColor=%23fff&label=Discord&labelColor=%23000&color=%235665F2" /></a>
+</p>
+
 ---
 
 ## 📖 About
