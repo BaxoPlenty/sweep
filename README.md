@@ -73,7 +73,8 @@ git clone https://github.com/BaxoPlenty/sweep.git
 cd sweep
 ```
 
-2. Create a `sweep.toml` file and [configure Sweep](docs/configuration.md):
+2. Create a `sweep.toml` file and [configure Sweep](docs/configuration.md).
+
 3. Set your token:
 
 ```bash
