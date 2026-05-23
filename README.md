@@ -25,7 +25,7 @@ Sweep bridges the gap between natural language and API actions, allowing you to 
 
 ## 🎥 Video Demo
 
-https://github.com/user-attachments/assets/a5e5c540-16a0-480e-bde1-22fb68ca9dd0
+https://github.com/user-attachments/assets/d8625f53-61cd-42c3-8e93-c37f633545f8
 
 ## 🛡️ Safety
 
